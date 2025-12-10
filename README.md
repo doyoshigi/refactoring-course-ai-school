@@ -16,7 +16,7 @@ AI스쿨 리팩토링 과정에서 수행한 프로젝트를 정리합니다.
 
 **📄 보고서 보기:** [PDF 링크 클릭](https://github.com/doyoshigi/refactoring-course-ai-school/blob/main/%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81_18%EC%A3%BC%EC%B0%A8_%EC%95%85%EC%84%B1%EC%BD%94%EB%93%9C%EB%B6%84%EC%84%9D%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)
 
-### 2. Adobe_Acrobat_msetup_aVkyy.exe 악성코드 분석 & Snort 룰 개발 보고서 
+### 2. Adobe_Acrobat_msetup_aVkyy.exe 악성코드 분석 및 Snort 룰 개발 보고서 
 > **핵심 요약:** Adobe_Acrobat_msetup_aVkyy.exe 악성코드 샘플 기초, 정적, 동적 분석 및 Snort 룰 설정
  
 **분석 대상**
