@@ -5,9 +5,10 @@ AI스쿨 리팩토링 과정에서 수행한 프로젝트를 정리합니다.
 ### 1. dgrep.exe 악성코드 분석 보고서
 > **핵심 요약:** dgrep.exe 악성코드 샘플 기초, 정적, 동적 분석 및 대응 방안 제시 보고서
  
-**분석 대상:** 'dgrep.exe' (MD5 Hash: 68af0599e74d36bc2f39a2710754082c)
+**분석 대상**
+ * 'dgrep.exe' (MD5 Hash: 68af0599e74d36bc2f39a2710754082c)
 
-**주요 성과:**
+**주요 성과**
   * 기초분석(Virustotal)을 통해 악성코드 샘플의 위협 카테고리 식별
   * 정적분석(Exeinfo PE, PEiD, PE View)을 통해 패킹 여부 확인 및 언패킹 후 파일 문자열 분석
   * 동적분석(Process Explorer, Process Monitor, CurrPorts, Wireshark)을 통해 파일 실행 후 네트워크, 로컬 동작 분석
